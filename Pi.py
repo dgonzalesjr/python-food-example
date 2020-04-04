@@ -1,3 +1,5 @@
 # python-pi-example
+def main(msg):
+    print(msg)
 
-This is an example project to demonstrate the use of git ubuntu
+main("Hello People")
